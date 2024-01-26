@@ -16,9 +16,9 @@ Demo : [SongProBot  🎻](https://t.me/SongProBot) 💃🏻
 Easy To Deploy 🤗
 
 # Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)](https://heroku.com/deploy?template=https://github.com/learningbot79/SongPlayRoBot.git)
+[![Deploy](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)](https://heroku.com/deploy?template=https://github.com//SongPlayRoBot.git)
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lerning/SongPlayRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com//SongPlayRoBot.git)
 
 ## Group
 You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
